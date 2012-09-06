@@ -25,7 +25,6 @@ def input_from_terminal
         rescue ArgumentError
       		return ERROR_OUTPUT
 	end	
-	
 end
 
 
